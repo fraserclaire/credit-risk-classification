@@ -1,5 +1,4 @@
-# Credit Risk Analysis Report
-## Module 12
+# Credit Risk Analysis Report - Module 12
 
 ## Overview of the Analysis
 
