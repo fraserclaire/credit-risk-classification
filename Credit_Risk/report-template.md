@@ -1,5 +1,5 @@
 # Credit Risk Analysis Report
-# Module 12
+## Module 12
 
 ## Overview of the Analysis
 
@@ -27,4 +27,4 @@
 * Almost all (99%) healthy loans are predicted by this model, with a 94% ability to correctly predict high-risk loans.
 * At 99% accuracy, high precision, and recall, this model seems to perform well at identifying the correct loan category.
 * The training data includes a much higher ratio of healthy to high-risk loans, which may hinder the ability to predict high-risk loans. Including more healthy loan data to train the model may improve the precision and recall scores for high-risk loans and ultimately increase the accuracy of the model.
-* This model seems appropriate to use for predicting borrowers loan risk, performing particularly well in prediciting healthy loans. However, the could be improved by retraining the model including more high-risk loan data.
+* This model seems appropriate to use for predicting borrowers loan risk, performing particularly well in prediciting healthy loans. However, it could be improved by retraining the model including more high-risk loan data.
